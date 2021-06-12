@@ -28,7 +28,8 @@ header h1 .seo {
 }
 
 /* Changed from header class to header element to reflect the change to semantic HTML in the index file. */
-header div {
+/* Changed from div to nav to reflect the change to semantic HTML in the index file. */
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -37,12 +38,14 @@ header div {
 }
 
 /* Changed from header class to header element to reflect the change to semantic HTML in the index file. */
-header div ul {
+/* Changed from div to nav to reflect the change to semantic HTML in the index file. */
+header nav ul {
     list-style-type: none;
 }
 
 /* Changed from header class to header element to reflect the change to semantic HTML in the index file. */
-header div ul li {
+/* Changed from div to nav to reflect the change to semantic HTML in the index file. */
+header nav ul li {
     display: inline-block;
     margin-left: 25px;
 }
