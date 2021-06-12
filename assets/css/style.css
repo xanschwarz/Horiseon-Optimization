@@ -194,7 +194,7 @@ p {
     font-size: 36px;
 }
 
-/* 2. Changed from .footer to footer to reflect the change to semantic HTML in the index file. */
+/* Changed from .footer to footer to reflect the change to semantic HTML in the index file. */
 footer {
     padding: 30px;
     clear: both;
@@ -202,7 +202,7 @@ footer {
     text-align: center;
 }
 
-/* 2. Changed from .footer to footer to reflect the change to semantic HTML in the index file. */
+/* Changed from .footer to footer to reflect the change to semantic HTML in the index file. */
 footer h2 {
     font-size: 20px;
 }
